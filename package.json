@@ -12,5 +12,8 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Adnan",
-	"description": "A learning project from freeCodeCamp"
+	"description": "A learning project from freeCodeCamp",
+	"keywords": ["learning", "project", "backend", "freecodecamp"],
+	"license": "MIT",
+	"version": "1.0.0"
 }
